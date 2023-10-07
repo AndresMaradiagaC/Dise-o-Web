@@ -1,0 +1,139 @@
+#mision{
+    font-size: 100px;
+    color: #f51b07;
+}
+
+#vision{
+    font-size: 100px;
+    color: #f51b07;
+}
+
+#valores{
+    font-size: 100px;
+    color: #f51b07;
+}
+
+#prueba{
+    font-size: 20px;
+    color: #0073ff;
+}
+
+.titulo{
+    font-size: 30px;
+
+}
+.btnrojo{
+    background-color: #f51b07;
+    border-radius: 5px;
+}
+.move-right {
+    margin-left: -500px;
+}
+
+#clock{
+    color: #60c0e0;
+    font-size: 100px;
+}
+
+#headphones{
+    color: #60c0e0;
+    font-size: 100px;
+}
+
+#car{ 
+   color: #60c0e0;
+    font-size: 100px;
+}
+
+#mobile{
+   color: #60c0e0;
+    font-size: 100px;
+}
+.letra{
+    font-size: 20px;
+}
+.logos{
+    width: 120px;
+    height: 90px;
+}
+.bg-gris{
+    background-color: grey;
+}
+.tamanol{
+    font-size: 30px;
+}
+
+
+.costa-rica-img {
+    max-width: 250px;
+    height: 200px ;
+}
+
+.america-latina-img {
+    max-width: 250px;
+    height: 200px ;
+}
+
+.fondo1{
+    background-image: url("../imagenes/desenfoque1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.tamano{
+    font-size: 40px;
+}
+.tama {
+    font-size: 18px;
+}
+.barra{
+    width: 230px;
+    height: 40px;  
+}
+
+.redes{
+    font-size: 35px;
+    color: #ffffff;
+}
+
+
+.banner-carretera {
+    display: flex;
+    align-items: center;
+    position: relative;
+    background-attachment: fixed;
+    background-size: cover;
+    height: calc(110vh);
+    background-position: center;
+    background-image: url('../imagenes/carretera.jpg');
+    background-color: #fbff1e;
+    background-blend-mode: multiply;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.7);
+}
+
+#ht{
+    font-size: 50px;
+    color: #f51b07;
+}
+.About{
+
+    font-size: 40px;
+
+}
+.who{
+
+    font-size: 20px;
+
+}
+.icontamano {
+    width: 100%;
+    height: auto;
+}
+
+.fondoindex{
+    background-image: url("../imagenes/foto2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
